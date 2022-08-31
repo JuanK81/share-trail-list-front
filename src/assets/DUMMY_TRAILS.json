@@ -1,0 +1,12 @@
+
+  {
+    "alerts": [],
+    "activity": "MTB",
+    "category": "Trail",
+    "id": "001",
+    "dificulty": "Easy",
+    "distance": { "value": 36, "units": "Km" },
+    "elevation": { "value": 850, "units": "m" },
+    "loop": false,
+    "name": "Trail 01"
+  }

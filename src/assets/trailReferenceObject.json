@@ -1,0 +1,168 @@
+[
+  {
+    "id": 130075199,
+    "name": "Pintors_con_calor",
+    "description": null,
+    "description_lang": null,
+    "description_original": null,
+    "presentationType": "map",
+    "slug": "pintors-con-calor-18a4e13",
+    "created_at": "2022-08-04T13:38:24Z",
+    "timezone": null,
+    "location": {
+      "postalCode": null,
+      "city": "Deià",
+      "region": null,
+      "country": "ES",
+      "country_id": 285,
+      "latitude": "39.75527",
+      "longitude": "2.64181"
+    },
+    "bounds": {
+      "latitudeTopLeft": "39.77539",
+      "latitudeBottomRight": "39.744047",
+      "longitudeTopLeft": "2.62798",
+      "longitudeBottomRight": "2.666"
+    },
+    "trailId": null,
+    "activity": null,
+    "rating": null,
+    "comment": null,
+    "obstacles": null,
+    "user": null,
+    "dataUid": null,
+    "originalAtMapId": null,
+    "private": null,
+    "contentPrivacy": "urn:alltrails:visibility:public",
+    "hidden": null,
+    "popularity": null,
+    "summaryStats": {
+      "duration": 161,
+      "updatedAt": "2022-08-04T13:38:25Z",
+      "distanceTotal": 9018.76,
+      "elevationGain": 314,
+      "elevationLoss": 318
+    },
+    "profilePhotoId": null,
+    "photoCount": 0,
+    "splits": null,
+    "routes": [
+      {
+        "id": 130075199000,
+        "status": "A",
+        "sequence_num": 1,
+        "lineGeoStats": {
+          "distanceTotal": 9018.76,
+          "elevationGain": 314,
+          "elevationLoss": 318,
+          "elevationMax": 85,
+          "elevationMin": 6,
+          "elevationStart": 68,
+          "elevationEnd": 69,
+          "speedAverage": 0.84,
+          "speedMax": 1.94,
+          "timeMoving": 10708,
+          "timeTotal": 16795
+        },
+        "lineSegments": [
+          {
+            "id": 1300751990000000,
+            "sequence_num": 1,
+            "polyline": {
+              "pointsData": "musqFi~bOAJGFCLAJ@KIEICI?GDEFIBIBGDGDI@G@IBGDGBIBGDGDGDKDIDIDGBIDIDI?I@KDI@IAGCGI[@AMEGKAGCI?IBI?K@IBGBI@K@I@IDGBK@G@KBIBI?ICIEICIEIEGGGGGGEIEIGGGCIEIEI@IAIAI?GAGEIAGAIAG?K@I?I@I?K?ICIBGFGCICIAKBEFIBGBIDI@EGEKCIEKCICKGGAKGIEIICI?GEGCGEICEGCKK?I@I@I?I@K?I@GDIBIDGDGFIBGBICGEICGCG@@KDIHA?KCMAK@MCK?M?K@MBKDG@MBIBKDGBI@O@M@MAKAMEIGIICEIGGKCGGIAEIEIGGCK?KBM?KAKCKAM@KBK@M@KCIAKGIEKAKCKCIBMEIEI@K@MAKEGGICMCKIAGAI@GFIBI?I@I@GCCMCKGEK?I@I@ICGEGEGCIGEGEKI?IEGECICK@K?M?MAMAK?K?K@MCKGEICEGIAIAGAGIGGAKAKGGGGCO?KGCIAFGFEJEFGH?FEBK?KCKEKEIEICKCI?M?MBM@K@KAM?MEIGGGAK@I?IGGGEGIEIAK@IE@KDI?O?MCKAKAM@KAK?MEGGEGGGEGEIGCKEKGIGGEGEGEMAIIGAMCKAMCIIGEGEDCI@MGIEIEIGGAKAM@KEMEEIGGGCMAKEIGEGAIEGCI?IEIEICIEGEGE?MBMCIEKCKAK@KBK@MGEKAI?IAGBIAI@I?EIEIAKCK?KCKCMAKICEG?MEGGIGGGGGIEKEIEKAIK@I?I?ICIAEIIEICI@G?KBGAICGEIEIGGE?MCIBKBI@KBMAKCKAKCIGGCMBK@KGGIAEHGIIECKAKEICKIEEGCIAMGGCKEKEGIDG?KCICGIICGCAKGEICEKGEGIICGAGEGIEGCKCKCI?KDKAICMIC?MEGIC?MIEGBGFGDI@GEI@K?EICMCI?MFIF?FIDIBK@K@KDGDMCKBM?KDI?KAMGEICEG?IDI?MGGGGEKAK?KGGBKCICKI@IAGDI?GEICIBG?K@IC@KBI?M@MBKDIDIBKBI@MAKAKEIIBIBI@?K@KHADGGCIEEGEIEICIAMAKBK?KBKBKBKFGFEFGGGGGGGGCICGIEIEG?K@MCKAKEMGEAMGCIAGE@KBICKIHGBI?I?IAGDGH@LIAIDICEHEIGE@KEIAK?KBMAMCKEIAMAKEIFI@KGIEGEICKEKGIGCIEAMI?KBFECJI?EGIGIEG?I@I@ICGIEKG?GFI@GEG@IAGEICEGIEGG@OBIBMDKFEH?FEFG@K?M?K@M?MAOCIIIEG?KAMEIDHFDHABK?K?MAKEIGGCKAI?MAKBK@M?KCIEIIEGIEICMCKCK@KDGICEI@M?KAMEKCIEGI@GEKDIBK@GDK?G?DGGFGBGGCKGAIEAK?MCIGGGEAMI?IBCKHBEKFIHEAKGGEGGCI?I?IAI?I?KCGAEICKICGCGGEIGEIGGGGEICKCG@IDGFEHCLGEIGAKEIGGEGI@K?EEICGEIAGGICG?IAICIEGGEIICEIGIGAIEG?IEGFEIG@@JGHEIEIEIGEAL@J@JDFBJBJAJCJ?JFDFFICEFEHAJ?JFCDKAK@KFEBICKIA@MBKGIAIEK?KCIAMHDDFDHFDHFFC@KCK?LHFDFHEFGFFDFFDDFHDFBFHJ?HBFBHDHDFDH@FBH@HDH@FDBHDHHBDHFFFE@M@KDIHCFDHBHFDFFDHHDFFHHDFDFFFFHBF@H@H?H@HBH@HBH@HFHDFDGHIDIAG?EJ@JL@DGBHHBFDFFCJ?J?JFFHBFDHFH?H?HDHCF?H@HDF@FGDFBJDH?JAJBHFHF?ALCJ?JFF@LFJDHDH@L?L?JCHBLDJBH@JDLFLBHDFG@GFGCI?GC@JAJFFFHBJFDBJ?LALAJAJALCHGDI@GDCJCJCJ@JHBFDFFFDFDH@H@DFBJH@H@H?FCH?HCF?H@DFFFFHFFHAHBHBDHDHHDFFBJCJAJAJDH@L?LBHAN@L?L@JBHBLHBDFHBFBFEFGFEH?BK?KFFHDFGHAHAH?F@CHBHBJAJFBHBBJAHBJBJ?LDFFBHBBJFDHAFFBLBJAJCLAJCJ?J?L?J?J@LBHCL@JFHDHIDCJAJFHHCH?BHAJALAJAJGFCJEH?L@JAJALHFHABKFAHAFDH@FCFEHAF@DHHF?JDHAJBJ@JBHDH?NCHAJDJ?JHFHFBJBJBHCLALALCJALAHCJCHGFIEGCI?IBEHGDGDAJAJCJAHGDGDGF?LJBGFDKCIGEFGFEFCDK@I@MHCH?FDH@HFFBHAHCH?FCHGHABHHBHHBJBJFFDJ?HEJEH?LFHDJDHDFDHFDDFH@FFFDDJFHHDFDFDH?HBHBF?FFAJDHFDFHBJBHDHBLFFFFDFFFDHHBDIEIFEFBBLEH@JBHFHBH?JIBGFBJALAJDJ@L?JBJHDFDDHHBH@HDFDHBFFFDBHCJ@JBJBJBH?LFDFFDJ@HDHBJHCFFF@DHDHH@DFFCH@HDHBDFFDFDH?HAHBDFFHFBFDBJBHFBBJ@LBJFJDFFDFDHFHDF?H?FFFFHBHBBJ@JDJDHFHFDHF?LCJ?L@JFDDFH?H@HDEHBJDJFFFFBJ@LBJFD@JBLDFDHFDFH@LDHDHDJDHFFDDBJDH@JCJ?JBJDHDJ@JBJBJFDHBFDHDFFFDH?HAH@HFDFBH?LAJGFALCFAJBLDHDHFHDH@H?LBJDJ@JCHI@I?CKGDGHGD@JBJDJDFDJ@JAJFBHBHAJ?FDDFHDHDBHBJ@JALCJEH?J?L@J@LDFFFFFHDFDFFFHDFFDHDFBHBH?HAH@FDDJDFFBFEH?HEHBFEH?HADHBJBHBJ@LAJBJHDFF?NAJDFBJ@HBJ?LDHAJALCJEHCL?LBHDJ@JCL@LBJFJDFHFFFFDFFFFHBDH@JHDBJ@JAJBJ?JGHGFEJ?JCL?HAJCJAJ?LBJ@JBJDF@L?JBJHAHAFCHEBIDIALGFIDGBI@DIDGEFGHIAGDIC?LFDH?HBHCFEFAHGFEFCJCDGHCFGFEJ@HAH@FCHFBJDHHBFFFBHBFDFDDJDHDHFFDJFHBHBJBJH@DIHCFCFAJAH@H?HCHCFAJ?DFFEHCH?HDFBJBFFJBH@J?HGHFFFFFFHFDHDFFHFFFFDHDFFFHFHHBHDHDH@JCFGFGHAH?FCHEDKDKFIFGFGH?JBHFJDHBFFFHFFHDBHHDJBH?HCJAF@H?HCHIFIDKFIDIHEHEHAHCHAHEJEFAJCHCFGHEHEH?HCHAH@HBFDHCH?JCJI",
+              "indexedElevationData": "?_kq|KgEndeIgEnfoFgE~~xFgEnzDgEozDgEnsw@gE_uu@gE~n}@gEnxwEgE~pdBgEnweCgE~xcCgEn}}BgEn}}BgEncvBgE~s`BgE~|qEgEnalEgE~efEgE~auFgEnj`EgE~pdBgE~dtBgE~meFgE~s}EgEntfGgE~jiFgEndeIgEozDgE__|BgEou~AgEoyo@gEo}}BgEoe`@gEojcAgEo_eDgE~s`BgE_g{CgE_~i@gE~nzDgE~gpBgE~trDgEnj`EgEnylDgEnweCgEnjcAgE~zm@gE~qy@gE~kaAgEn{vAgEndhEgE~lsCgEn}zFgEnkuCgEnm|DgE~bmAgE~_nEgEnuxIgEngaIgEnhvGgEnvmHgE~x`GgE~``HgEnmyHgEn{pIgE~toHgEnm_AgE~pdBgE_}tAgE_etBgE_w|AgEoggAgEoggAgE_laAgEoaoAgEosw@gE_g^gEom_AgE_{m@gEosw@gE~tu@gEnm_AgE~kaAgEnyo@gEnm_AgE~f{CgE~vyEgEnqmCgEndkAgE~trDgEn{sEgE~}fDgEnkuCgEn|k@gEnzaCgEnljBgEnweCgE~eiAgE~tu@gE~qy@gEnbd@gEom_AgE_zxAgE_hpBgEosw@gEocvBgE_hmFgEoaiIgE~{BgEn_eDgE_uu@gE~f^gE?gEnyo@gE_g{CgE_piKgE~s`BgE~k~DgEn_eDgE~eiAgE~ugCgEnfrBgE~gpBgE~mhBgEnggAgEoyo@gEou~AgEojcAgE_}tAgEovs@gE_ycCgEoe}CgE_wyEgEoylDgEo`zBgEovs@gE~rNgEn}}BgE_uoHgE_~`LgEomyHgE_piKgEou{EgEo|eHgE_||FgEoaiIgE_xkHgE_}qEgE_qaFgEolgFgE_owHgEoo`JgEo}}BgE?gEoqPgE_mVgE~s}EgEnz~FgE~_kIgE~jfJgEnkrGgEnylDgE~c_DgE~vyEgE~gpBgE~f{CgE~`f@gEn_h@gEnaoAgEokXgEo{vAgE_msCgE_cmAgEo_h@gEnvs@gE~`f@gE~rNgEnwHgE~uJgEn}@gE~f^gE~iZgEnjcAgE~yxAgE~tu@gEn|k@gEnnTgEn{vAgEnfrBgEn`zBgEn|hDgE~k~DgEne`@gE_xq@gE~{BgEou~AgE_w|AgE~oRgEnzDgEnjcAgEn|hDgEn_eDgEninBgE~ugCgE~{_CgEnyo@gEoggAgE~`f@gEnxwEgEn}wJgEnvmHgEn|eHgEnxtIgEnmyHgE~cb@gE~lVgE~_qAgE~mhBgE~s`BgE~uJgE~f^gE~oRgEnwHgE_yFgEntLgE_~i@gEom_AgE_`qAgEodkAgEom_AgEojcAgE_o}@gE_qdBgE_w|AgEoxzAgE_ry@gE_xq@gEnnTgE~uJgEoqPgE_g^gEosw@gE_o}@gE_`qAgEo~rAgEom_AgEoxzAgE~kaAgEnrbBgE_xnDgEokuCgE_qdBgEo~rAgE~xFgE_`qAgE_rvDgEostDgE_||FgE_y`GgEovpDgE_poCgEom|DgEoofBgEou{EgEou{EgE_zrIgE_||FgEo`wFgE_|_CgEoalEgE~lsCgEn{pIgEnhsKgEnqaSgEnnhOgE~h|LgEn~lIgE~s}EgE~jlBgEnhyCgEn~oEgE~`cDgEo_h@gE_xnDgE_cmAgEojcAgE~`f@gEoggAgEocvBgE_`nEgEo{vAgEoalEgEnkXgEnfrBgEnstDgEn}zFgEnezGgEnqgKgE~zm@gE~iZgEn|hDgE~bmAgE_af@gEoqPgEoe}CgE_`nEgE~tu@gEogaIgEor_FgE_vaKgEocsFgEosw@gE_cmAgE~whLgE_kiFgE_}hQgE~cb@gE_yFgE_sNgEndkAgEopxDgEom|DgE_kiFgEokXgEnfrBgE~``HgE~trDgEobd@gEoxzAgEnjcAgE~trDgE~jiFgEnxwEgE~f{CgE~fxGgEnfrBgEn{vAgEne}CgE~gpBgE~n}@gE~n}@gE_lxLgE_{aPgEo}}BgEou~AgE_jwCgE_zuEgE_{gHgE_cgIgE_d|GgE~udGgEn`qNgE~ntLgE~}cHgE~``HgEnkrGgEnaiIgEnvmHgE~xFgE~xFgE_msCgEo~rAgE_}qEgEo~rAgE_klBgEozaCgE~rhGgE~bmAgE_zuEgEn{vAgE_fiAgEn_h@gEorbBgE_{jDgE_d|GgE_gxGgEo_|OgEocmNgE~uaKgE~jiFgEnfoFgE~tu@gEnhyCgE_~cHgEn}@gEndkAgE~}cHgE~}fDgE~arJgEnofBgEnfrBgE~s`BgE~f{CgE~ooCgE~wnDgEob~GgEo}@gEog~LgE_~`LgEor|IgE_mjOgE_hpBgEncvBgE~hbEgEno`JgE~nnTgEnuuMgE_l{HgE_owHgEn`nRgEn`nRgEndhEgE~kaAgEne}CgEnkXgEoqPgE_{m@gE_}tAgE~toHgE~cb@gE_o}@gEomyHgEoz~FgEodbMgEoo`JgE_skCgEnzxNgE~s}EgEnzaCgEn~rAgE_ieAgE~s`BgE~heAgEokrGgE~n}@gE?gEoocFgE_ry@gE_vgCgEnnTgEn|k@gE_jZgEosw@gEo|k@gE_d_DgEoylDgEovpDgEoj}HgE_~}OgEo~oEgEo{sEgE~mbJgEo}wJgE~_qAgEnnkKgE_tzIgE~~uJgEncmNgEnetOgEn~iMgEnryMgE~ecIgEnsqHgEnaoAgEobd@gEostDgE_~fDgEotfGgE_gxGgE_zxAgEodeIgEoezGgE_wvIgE_vdGgE__yFgE_gxGgE_hmFgEn{vAgE_bxBgE_sNgEostDgE_sNgE~zm@gE~olGgE~p~IgEnikFgE~cb@gE_a}KgEo_bHgEnljBgE~n}@gEo|k@gEo_bHgE_otLgEowHgE_iyPgE_`nEgEob~GgEnxqMgE~h_IgEnb{KgE_db@gE_ffEgEocvBgE~|tAgE_vJgE_g^gE_rvDgEogdEgEoweCgE_||FgEolgFgE_t}EgE_jtGgEoihJgEotcKgE_`kIgE_}qEgEodkAgE_uu@gEnhyCgEnvjLgEn_bHgEnkrGgE~lVgEoaoAgEoldJgEob~GgE~fxGgE~x}JgE~~xFgE~``HgEn{pIgE~nzDgE~_qAgEnu~AgEoqjGgEoljBgEozxNgEozxNgEozxNgE_xbTgE_ywRgE_iyPgE~qpLgE~iqKgEncpJgE~reKgE~m_NgE~gmFgEnp{@gEnjcAgE_mpGgE_piKgEo}}BgE_~fDgEoe`@gEnhyCgEoj`EgE~`cDgEnz~FgE~gpBgEoylDgEoe}CgEndkAgE~bgIgEnz~FgE~zgHgE~zgHgEnkrGgE~olGgE~yuEgEnnqCgEnnqCgE~``HgEnrbBgEno`JgEotiCgEoh\\gEostDgEnljBgEne`@gE~xFgE~xFgEostDgEoqmCgEosw@gEocvBgE_|_CgEom_AgEo}wJgE_d|GgE_yFgE_yFgE~zm@gE_|BgE~kaAgE~c_DgEnaoAgEnofBgEogdEgEnhyCgE~~xFgEou{EgEnwbGgEnqmCgEoh\\gEne`@gE~oRgEnu~AgE~wnDgE~k~DgEo}@gE_klBgEoocFgEn`wFgEnt`OgE~arJgE~wq@gEn|eHgE~}i@gE_nhBgEonTgE_ibEgE_}tAgEo_eDgEoetOgEo`tJgE_otLgE_{jDgE_ozDgE_urDgEoxwEgEowbGgEo~oEgEo{vAgE~_qAgEn_h@gEnu~AgEnm|DgE~zjDgE~udGgEn|hDgE~jlBgE~rkCgE~rkCgE_skCgEokuCgE_bxBgEotLgE~}i@gEnyo@gE~bmAgEop{@gEopxDgE_~`LgEocpJgE_iyPgE_otLgE_oqPgEoozQgEoo}MgEob~GgE_urDgE~yxAgEoxzAgE_skCgEoaiIgE_kfJgEoxqMgEoskPgE_jqKgE_w|AgE_{dLgEoplTgE_ttQgEovdTgEonhOgEo__LgE_poCgEnlgFgE~oRgE~``HgE~wnDgEnhyCgE~toHgE~axBgE~f{CgE_nbJgEndbMgE~tiPgEnkXgE_{m@gEnezGgEncsFgEoikFgEoihJgEopxDgEnljBgE~~uJgEop{@gE~reKgEn`qNgEopxDgEocsFgE_qdBgE_{dLgEoocFgEnnTgEnggAgE~rNgEnh\\gE~n}@gEnu~AgEnz{JgE~cyKgEnewKgE~`}KgEnezGgEnm_AgEnylDgE~pxQgE~_hMgEnz{JgEngdEgE~|nIgE~dnJgE~itGgE~wkHgEnjzLgEnetOgE~jcNgE~vmUgEno}MgE~k{HgE~c|GgEninBgEn|hDgEou~AgEocvBgE~{BgE_{m@gEno`JgE~jfJgEnnTgE~efEgE~v|AgE~rhGgEn~rAgEnz~FgEnhvGgEn_bHgEnr_FgEnu~AgEoxzAgE_g{CgE~axBgE_w|AgE_yFgEnhyCgE_vJgEnqmCgE_o}@gE~vsMgEo_bHgE~paFgE~ntLgEnuxIgEoofBgEodeIgEo|eHgE_qdBgEnfiNgEnz{JgEnj`EgE~v|AgE~trDgE~k~DgE~bjEgE~n}@gEnyo@gE~uJgEoyo@gE~kaAgE~zm@gEnp{@gE_~i@gE_hpBgEn}@gEnu~AgE~uJgEovs@gEoaoAgEorbBgE~uJgE~tu@gEo|hDgE_zuEgE_poCgEohyCgE_g{CgE_hjJgE_{gHgE_otLgE~qy@gEn{sEgE~nwHgE~v|AgEnbd@gE_}qEgEozxNgEoewKgE~nqPgE~ooCgE~kaAgE_gxGgE_n_NgEnu~AgEnzDgE_laAgE~tu@gEosw@gEoyo@gEnkuCgEob{KgE_t}EgE_g{CgE_rvDgE_`nEgE_hpBgE_y`GgEoqmCgE__yFgE_skCgEocsFgEojcAgEn|hDgEnfrBgE_kiFgEovs@gEou~AgE_plGgE_shGgE_guKgEofiNgE_v{RgEocsFgE_{dLgE_zrIgE_msCgE_fcIgE_zrIgE_l~DgEopuHgE_dvOgE_i|LgEo{mMgEoflJgEoo`JgEoezGgEocpJgE_guKgEo}wJgE_l{HgE_{m@gE_{m@gEoaoAgE_}tAgEoweCgE_t`BgE~mhBgEn|eHgE~|qEgEnj`EgE~cvOgE~qsHgEoycPgE_seKgEonTgEosnLgEostDgE_bxBgEnihJgEngaIgEngaIgEorbBgEogaIgE__yFgEoj`EgE_q{MgEoofBgEntiCgE_vdGgEoaoAgEoqPgEnkuCgE?gEodbMgE~wkHgE~inOgEnprLgE~|hQgE~|hQgEng~LgE~uaKgEo~rAgE~{sRgEnxnQgE~|kMgE~kaAgEnw_KgE~lsCgE~iwCgE~bjEgEno}MgEnetOgE~_hMgEnuuMgE~p{MgE~dnJgEnaiIgE~bdMgEne`@gEom|DgE_qdBgE_t}EgE~yuEgEn~rAgEnweCgE~ooCgE~rkCgEorbBgEojcAgE_ozDgE_zuEgE_xnDgEoj`EgE_{jDgE_}tAgEo|k@gE_mVgE_|BgE~_nEgE~k~DgEn{sEgE~bjEgE~trDgEn}}BgE~nwHgE~kxLgEnuxIgE~xFgEnofBgE~wnDgEnfrBgE~mhBgE_~i@gE_l~DgE~eiAgE~olGgE_neFgEoocFgEo|eHgEo}wJgE_etBgE_t}EgE_cmAgEosw@gE~|tAgEntLgEnqPgEoinBgE_bxBgE__|BgE_nhBgEotLgE~rNgEogdEgEoqmCgEnbd@gEngaIgE~olGgE~rhGgE~tu@gEncvBgEnp{@gEnzDgEnrbBgE~bmAgEn{vAgE~tu@gE~{BgEowHgEoggAgE~dtBgEop{@gEosw@gEo_bHgEoyiHgE_qaFgE_skCgEo|hDgE_hpBgE_klBgEocsFgE_uoHgEosqHgEovmHgE_a`HgE_neFgEne}CgE_cmAgE~{_CgEnvmHgE_{jDgEocsFgE~_qAgE~auFgE~rkCgE~rkCgEn~lIgE_uu@gE_hmFgE_tzIgEnwHgE_cgIgEovgPgE_wvIgE_qdBgE_poCgEnwbGgEnycPgEnz{JgEnzxNgEn}zFgEninBgEnm_AgEnm_AgE_g^gE_~fDgE~vyEgE_ieAgE_gxGgEohyCgEno`JgE~s`BgE~lVgE_}qEgEoikFgE_vdGgE_o}@gEn`zBgE~|nIgE~|nIgE~qsHgE~ugCgEnvpDgE~pdBgEntfGgE~~xFgEndhEgEnocFgE~s}EgE~qy@gE_msCgEotLgE_pRgE~zjDgE~v|AgE_cmAgEostDgEomvLgE_eqFgEnzaCgEou~AgEnsnLgE~iwCgE~{vNgE~rhGgE~`cDgEnaoAgEn|k@gEnaiIgEnylDgE~xFgEoylDgEo_h@gE_rsHgE_~cHgEou~AgE_zxAgEo{vAgEn}}BgE~lsCgE~s}EgE~itGgE~x`GgEnocFgEnyfLgEnkoKgE~swMgE_uu@gEowHgE~s`BgEn_eDgEn{sEgE~ooCgE~c_DgE~trDgEnnqCgE~xcCgEnxzAgE~lVgEozDgEoqPgEnu~AgE~zm@gEne`@gEovs@gEom_AgEo~rAgEnkXgEnzDgEowHgE_klBgEoinBgEo|hDgE_poCgEobd@gEn_h@gE_jZgEnzDgE_g^gEonqCgE_boNgE_n_NgE_lxLgE_pcSgE_uiPgE~uJgE_dyKgE_eqFgEnzaCgE~rkCgEoqmCgE~mhBgEnj}HgE~hyPgEndbMgEnihJgEnh\\gE~axBgE~yxAgEnvs@gE~ugCgE~`f@gE~s`BgE_xq@gEnljBgE~eiAgEncsFgEnnqCgE_o}@gEoyo@gE_af@gEovpDgEoggAgEoxzAgE_zuEgE~bmAgEno}MgEnkrGgE~ooCgE~zm@gEndkAgEnm_AgEnvs@gE~_qAgE_xnDgEoe}CgE_w|AgE_hpBgE_af@gEozaCgE_ffEgE~rNgEo}zFgEovdTgEodhEgE~ocSgEo}}BgEomvLgEorsUgE_hjJgEosw@gEn||SgE~ofOgEoggAgE~szIgE~toHgE_g{CgEn`zBgE~bjEgE~`f@gE_plGgEonqCgE~kaAgEolgFgEodhEgE_uu@gEnkXgE_db@gE~zjDgE~rkCgEn}wJgE~tlLgEnalEgEnpxDgEnstDgEn|hDgE~trDgEntLgEnh\\gE~n}@gE~n}@gE~wq@gE~uJgEoyo@gEom_AgE_laAgE~xFgEnyo@gE_|BgEnu~AgE_ry@gE_qdBgE_}qEgE_buFgE_etBgEo_eDgE_|_CgEo`wFgEo{pIgEocsFgE_ieAgEo`zBgE_zuEgEodhEgEn|k@gE~kaAgE_cjEgEnzaCgEnz~FgE~}fDgEn}}BgE~n}@gE_o}@gEom_AgEoyo@gE_w|AgEoocFgEob~GgE~}i@gE_`qAgE_kiFgE_plGgEnyo@gEninBgEoyo@gEop{@gEokuCgE_eqFgEoezGgE~efEgEngaIgE~c|GgEnylDgEofrBgE_pRgE_rsHgE_plGgEogdEgEnmvLgEnmyHgE~meFgEntLgEnrbBgE~toHgEnaiIgEnu{EgE_xq@gE~udGgE~gmFgEo}@gE~kaAgEo_h@gEo~rAgE~jiFgE_g{CgE_}qEgE_msCgEozaCgEodhEgE__|BgEnqPgEoofBgE~heAgEn`wFgE~~{BgE_uu@gEoofBgEo{vAgE~xFgEoh\\gE_uu@gE_etBgE_vgCgEojcAgE_kiFgEo~lIgE_kfJgEonhOgE_azOgE_yzNgEog~LgE_rvDgEoe`@gE~|qEgE~{|FgEn}wJgE~udGgEnfoFgE~meFgE~heAgE~cb@gE~pdBgE~mhBgE~}fDgEnocFgE~szIgEnstDgE~zjDgE~nzDgE~lsCgE~xFgE_mVgEohyCgEnp{@gEnzaCgE~lsCgEn~rAgEn|k@gEnzDgE~bmAgEnofBgE~heAgEnp{@gEnnTgEnwHgEowHgE_|BgE~rNgEnbd@gE~eiAgE~s`BgE~|tAgE~pdBgEnxzAgEnm_AgE~lVgEowHgE~n}@gEnggAgEndkAgEne`@gEnkXgEnwHgEotLgEo|k@gEonTgE_vJgE_ycCgEoxzAgE_xq@gEoofBgEoyiHgE_tzIgE_owHgEosqHgE_i_IgEoxwEgE_laAgE_|BgE_uu@gEo|hDgEo}}BgE_qaFgEonTgEo}}BgE_db@gEop{@gE~yxAgE~v|AgE~qy@gE~qy@gE~_qAgE_hpBgEoikFgE_`qAgEo{vAgEo~oEgEop{@gE_mVgEosw@gEosw@gEo{vAgEobd@gEoyo@gE_|BgEowHgEozDgE~xFgE?gE_sNgE_af@gE~uJgE~_qAgEn_eDgEnxzAgEnbd@gE_af@gEovs@gEoqmCgE_zxAgEo`zBgE_vgCgE_rvDgE_eqFgEogdEgE__|BgEonkKgEoezGgE_rvDgEnnTgEoikFgE_o}@gEnwbGgE~vvIgE~nwHgE~iwCgEnz~FgE~dtBgE~rhGgE~ecIgEnb~GgE~zgHgE~bjEgE~zgHgE~h_IgE~{|FgE~jcNgEnz~FgEnpxDgEn`zBgE~xcCgEnrbBgEntiCgEodhEgEoz{JgEnwyRgE_{m@gEoweCgE_t`BgEo}}BgEntLgE~zm@gE_{m@gE_~i@gEobaDgE_ieAgE_cjEgE~dtBgEndhEgE~nzDgE~ugCgEnjcAgE~wq@gEn~rAgEnofBgE~mhBgE_pRgE_t`BgEocvBgE_d|GgEoo}MgE_|yJgE_af@gEoocFgEowHgE_}nIgE~~uJgEnxkUgE~bjEgE_|_CgEnvs@gEobd@gE_uu@gE~_qAgE~gpBgEnmvLgE~axBgEn~rAgEnsw@gE~mhBgEndkAgEnyo@gEoyo@gE_uu@gE_}tAgE_uu@gEoweCgEorbBgE_nhBgE_acDgEobaDgEostDgE_msCgEoqmCgE_vgCgEo{sEgEoe}CgE~xFgE_}tAgEom_AgE_fiAgE_}tAgEovs@gE~uJgE~bmAgE~eiAgEnofBgEnfrBgE~tu@gE~kaAgE~yxAgE~axBgE~eiAgE_jZgE_vdGgEow_KgEogaIgEoz~FgE_vdGgEo}zFgEocmNgEo||SgEo}wJgEoafMgE_rpLgEoikFgE?gE~bjEgEn|hDgEoljBgE_urDgEokXgE~}i@gEnu~AgE~f^gEowHgEobd@gEovs@gEou~AgEoylDgE_acDgE_xnDgE_ycCgEovs@gE_yFgE~heAgE~lVgEnqPgEojcAgE__|BgEorbBgE~n}@gEnofBgE~lVgE~n}@gE~rkCgEnalEgE_hpBgE_neFgE_eqFgEoqmCgE_}qEgEoylDgE_ibEgEoylDgE_ozDgE_t}EgEo|eHgEoylDgEo_eDgE_ycCgE_skCgE_msCgE_msCgEoofBgE_etBgE_t`BgE_}tAgEou~AgEou~AgEovpDgE_y`GgEob~GgE_buF"
+            },
+            "dateTimeStart": null,
+            "dateTimeStop": null
+          }
+        ]
+      }
+    ],
+    "waypoints": [
+      {
+        "id": 232037218,
+        "name": "0006673",
+        "name_lang": null,
+        "name_original": "0006673",
+        "description": null,
+        "description_lang": null,
+        "description_original": null,
+        "order": 1,
+        "location": {
+          "latitude": 39.755266,
+          "longitude": 2.641809
+        },
+        "at_map_id": 130075199,
+        "enable_translations": false,
+        "waypointDisplayProperty": {
+          "showTitle": false
+        }
+      },
+      {
+        "id": 232037219,
+        "name": "0006674",
+        "name_lang": null,
+        "name_original": "0006674",
+        "description": null,
+        "description_lang": null,
+        "description_original": null,
+        "order": 2,
+        "location": {
+          "latitude": 39.769327,
+          "longitude": 2.655445
+        },
+        "at_map_id": 130075199,
+        "enable_translations": false,
+        "waypointDisplayProperty": {
+          "showTitle": false
+        }
+      },
+      {
+        "id": 232037220,
+        "name": "0006675",
+        "name_lang": null,
+        "name_original": "0006675",
+        "description": "<p><br /><h3>Nombre: Segmento: 1</h3><br />Hora Inicio: 10:12 30 may. 2021<br />Hora Fin: 15:06 30 may. 2021<br />Distancia recorrida: 15,8km (04:54)<br />Tiempo en movimiento: 03:13<br />Velocidad media: 3,23 km/h<br />Vel. en Mov.: 4,9 km/h<br />Velocidad Máxima: 57,38 km/h<br />Altura Mínima: 4 m<br />Altura Máxima: 309 m<br />Velocidad Ascenso: 543 m/h<br />Velocidad Descenso: 341,4 m/h<br />Ganancia Altitud: 809 m<br />Pérdida Altitud: 580 m<br />Tiempo Ascenso: 01:29<br />Tiempo Descenso: 01:42<br /></p>",
+        "description_lang": null,
+        "description_original": "<p><br /><h3>Nombre: Segmento: 1</h3><br />Hora Inicio: 10:12 30 may. 2021<br />Hora Fin: 15:06 30 may. 2021<br />Distancia recorrida: 15,8km (04:54)<br />Tiempo en movimiento: 03:13<br />Velocidad media: 3,23 km/h<br />Vel. en Mov.: 4,9 km/h<br />Velocidad Máxima: 57,38 km/h<br />Altura Mínima: 4 m<br />Altura Máxima: 309 m<br />Velocidad Ascenso: 543 m/h<br />Velocidad Descenso: 341,4 m/h<br />Ganancia Altitud: 809 m<br />Pérdida Altitud: 580 m<br />Tiempo Ascenso: 01:29<br />Tiempo Descenso: 01:42<br /></p>",
+        "order": 3,
+        "location": {
+          "latitude": 39.744047,
+          "longitude": 2.62798
+        },
+        "at_map_id": 130075199,
+        "enable_translations": false,
+        "waypointDisplayProperty": {
+          "showTitle": false
+        }
+      },
+      {
+        "id": 232037221,
+        "name": "0006676",
+        "name_lang": null,
+        "name_original": "0006676",
+        "description": "<p><br /><h3>Nombre: Segmento: 1</h3><br />Hora Inicio: 10:12 30 may. 2021<br />Hora Fin: 15:06 30 may. 2021<br />Distancia recorrida: 15,8km (04:54)<br />Tiempo en movimiento: 03:13<br />Velocidad media: 3,23 km/h<br />Vel. en Mov.: 4,9 km/h<br />Velocidad Máxima: 57,38 km/h<br />Altura Mínima: 4 m<br />Altura Máxima: 309 m<br />Velocidad Ascenso: 543 m/h<br />Velocidad Descenso: 341,4 m/h<br />Ganancia Altitud: 809 m<br />Pérdida Altitud: 580 m<br />Tiempo Ascenso: 01:29<br />Tiempo Descenso: 01:42<br /></p>",
+        "description_lang": null,
+        "description_original": "<p><br /><h3>Nombre: Segmento: 1</h3><br />Hora Inicio: 10:12 30 may. 2021<br />Hora Fin: 15:06 30 may. 2021<br />Distancia recorrida: 15,8km (04:54)<br />Tiempo en movimiento: 03:13<br />Velocidad media: 3,23 km/h<br />Vel. en Mov.: 4,9 km/h<br />Velocidad Máxima: 57,38 km/h<br />Altura Mínima: 4 m<br />Altura Máxima: 309 m<br />Velocidad Ascenso: 543 m/h<br />Velocidad Descenso: 341,4 m/h<br />Ganancia Altitud: 809 m<br />Pérdida Altitud: 580 m<br />Tiempo Ascenso: 01:29<br />Tiempo Descenso: 01:42<br /></p>",
+        "order": 4,
+        "location": {
+          "latitude": 39.744047,
+          "longitude": 2.62798
+        },
+        "at_map_id": 130075199,
+        "enable_translations": false,
+        "waypointDisplayProperty": {
+          "showTitle": false
+        }
+      }
+    ],
+    "mapPhotos": [],
+    "metadata": {
+      "created": "2022-08-04T13:38:24Z",
+      "updated": "2022-08-04T13:38:25Z",
+      "status": "A",
+      "source": 1033,
+      "timezone": null
+    }
+  }
+]

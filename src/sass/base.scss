@@ -1,0 +1,99 @@
+// COLOR VARIABLES
+$color-primary-dark: #248232;
+$color-primary: #2ba84a;
+$color-primary-light: #BDFF00;
+
+$color-secondary-dark: #040f0f;
+$color-secondary-light: #2d3a3a;
+
+$color-tertiary: #fcfffc;
+$color-tertiary-dark: #BFD7BF;
+
+$color-red: #d13b00;
+
+//UI element variables
+$header-height: 9rem;
+
+
+// FONT VARIABLES
+$font-primary: 'Roboto', sans-serif;
+$font-secondary: 'Nunito', sans-serif;
+
+
+//Responsive breakpoints
+$bp-largest: 90em; //1440px
+$bp-large: 72em; //1152px
+$bp-medium: 57em; //912px
+$bp-small: 48em; //768px
+$bp-smallest: 27em; //432px
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; // 10px/16px = 62.5 => 1rem = 10px
+  transition: all 0.2s;
+
+  // overflow: hidden;
+  scrollbar-width: none;
+
+  @media only screen and (max-width: $bp-largest) {
+    font-size: 50%;
+  }
+}
+
+body {
+  width: 100%;
+  background-color: $color-tertiary-dark;
+  font-family: $font-primary;
+  font-weight: 300;
+  line-height: 1.6;
+  
+
+  &::-webkit-scrollbar {
+    display: none;
+
+
+    @media only screen and (max-width: $bp-medium) {
+      position: relative;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
+  }
+  
+  // span {
+  //   color: $color-grey;
+  //   font-size: 1.5rem;
+  //   font-weight: 400;
+  //   text-shadow: none;
+  //   letter-spacing: 0.5rem;
+    
+  //   @media only screen and (max-width: $bp-medium) {
+  //     font-size: 1rem;
+  //     letter-spacing: 0.2rem;
+
+  //   }
+  // }
+}
+
+.btn {
+  border: none;
+  cursor: pointer;
+  padding: 1.2rem;
+  margin: 1rem 2rem;
+  border-radius: .8rem;
+  font-size: 2.5rem;
+  
+  &-link {
+    text-decoration: none;
+  }
+}
+

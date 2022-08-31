@@ -1,0 +1,8 @@
+.container-basic {
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba($color-tertiary, 0.6);
+    border-radius: .5rem;
+}

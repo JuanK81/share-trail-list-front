@@ -1,0 +1,40 @@
+.hero {
+  position: relative;
+  height: 98rem;
+  background-color: $color-tertiary;
+  &-img {
+    width: 100%;
+    height: 65rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &-search {
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba($color-tertiary, 0.6);
+    border-radius: 1.5rem;
+    width: 62rem;
+    height: 8.5rem;
+
+    &_input {
+      border: none;
+      width: 51.8rem;
+      height: 6rem;
+      border-radius: 1.1rem;
+    }
+
+    &_button {
+      width: 6rem;
+      height: 6rem;
+      background: $color-primary;
+      border: 1px solid $color-primary-light;
+      border-radius: 11px;
+      color: $color-primary-light;
+      font-size: 2.5rem;
+    }
+  }
+}

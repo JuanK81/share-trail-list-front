@@ -1,0 +1,28 @@
+.dashboard {
+  width: 50%;
+  
+  
+  // border: 3px dotted rgb(36, 128, 0);
+  
+  
+  &_container {
+    display: flex;
+    // align-items: center;
+    justify-content: center;
+    
+    // border: 3px dotted purple;
+  }
+  
+  
+  &_content {
+    // width: 100%;
+    padding: 3rem;
+  }
+
+  &_user {
+    font-size: 3rem;
+    font-family: $font-primary;
+  }
+}
+
+

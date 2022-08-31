@@ -1,0 +1,50 @@
+.create-trail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Nunito', sans-serif;
+  padding: 1rem 1rem;
+  margin: 2rem;
+
+  &_content {
+    // border: 2px solid hotpink;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 3rem;
+    // border: 2px solid green;
+  }
+
+  &_file {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  &_field {
+    font-size: 1.6rem;
+    font-weight: 700;
+  }
+  input,
+  select {
+    background-color: $color-tertiary;
+    border: none;
+    padding: 1rem;
+    border-radius: 0.9rem;
+    min-width: 30rem;
+    margin: 1rem 0;
+    font-size: 2rem;
+  }
+
+  button {
+    // width: 6rem;
+    // height: 6rem;
+    background: $color-primary;
+    border: 1px solid $color-primary-light;
+    border-radius: 4px;
+    color: $color-primary-light;
+    padding: 0.5rem 0.8rem;
+    margin: 1rem 0;
+    font-size: 2rem;
+  }
+}
