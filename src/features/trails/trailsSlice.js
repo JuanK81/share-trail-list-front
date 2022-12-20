@@ -76,28 +76,6 @@ export const getTrails = createAsyncThunk(
   }
 );
 
-
-// //Get user trails
-// export const getUserTrails = createAsyncThunk(
-//   'trail/auth.user._id',
-//   async (_, thunkAPI) => {
-//     try {
-//       const token = thunkAPI.getState().auth.user.token;
-//       return await trailsService.getUserTrails(token);
-//     } catch (error) {
-//       const message =
-//         (error.response &&
-//           error.response.data &&
-//           error.response.data.message) ||
-//         error.message ||
-//         error.toString();
-//       return thunkAPI.rejectWithValue(message);
-//     }
-//   }
-// );
-
-
-
 //Delete trail
 export const deleteTrail = createAsyncThunk(
   'trail/delete',
@@ -167,19 +145,6 @@ export const trailsSlice = createSlice({
         state.isError = true;
         state.message = action.payload;
       })
-      // .addCase(getUserTrails.pending, (state) => {
-      //   state.isLoading = true;
-      // })
-      // .addCase(getUserTrails.fulfilled, (state, action) => {
-      //   state.isLoading = false;
-      //   state.isSuccess = true;
-      //   state.trail = action.payload;
-      // })
-      // .addCase(getUserTrails.rejected, (state, action) => {
-      //   state.isLoading = false;
-      //   state.isError = true;
-      //   state.message = action.payload;
-      // });
   },
 });
 
