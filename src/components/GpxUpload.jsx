@@ -5,7 +5,6 @@ const GpxUpload = ({ id, center, onInput }) => {
   const gpxFileRef = useRef();
 
   const gpxfileHandler = () => {
-    console.log('CLICKED!');
     gpxFileRef.current.click();
   };
 
