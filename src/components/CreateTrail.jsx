@@ -10,8 +10,6 @@ import Container from '../components/ui/Container';
 import Spinner from '../components/ui/Spinner';
 import DisplayStats from './DisplayStats';
 
-// import convert from '../helpers/convert';
-
 function CreateTrail() {
   const gpxFileRef = useRef();
   const [fileName, setFileName] = useState('');
@@ -108,7 +106,6 @@ function CreateTrail() {
     };
 
     dispatch(createTrail(trailData));
-    console.log('****** TRAIL_DATA ******', trailData);
     dispatch(reset());
 
     setFormData({
