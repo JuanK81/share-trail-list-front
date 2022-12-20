@@ -4,9 +4,6 @@ import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
 import { register, reset } from '../features/auth/authSlice';
 
-// import { Formik, Field, Form, ErrorMessage } from 'formik';
-// import * as Yup from 'yup';
-
 import { FaUser } from 'react-icons/fa';
 
 import Footer from '../components/ui/Footer';
@@ -132,45 +129,6 @@ export const SignUp = () => {
             </section>
           </div>
           <div>
-            {/* <Formik
-              initialValues={{
-                firstName: '',
-                lastName: '',
-                email: '',
-              }}
-              onSubmit={(values) => {
-                console.log(values);
-              }}
-              validationSchema={Yup.object({
-                firstName: Yup.string()
-                  .max(15, 'Must be 15 characters or less.')
-                  .required('Required field'),
-                lastName: Yup.string()
-                  .max(15, 'Must be 15 characters or less.')
-                  .required('Required field'),
-                email: Yup.string()
-                  .email('Please, enter a valid email')
-                  .required('Required'),
-              })}
-            >
-              {(formik) => (
-                <Form>
-                  <label htmlFor="firstName">First Name</label>
-                  <Field name="firstName" type="text" />
-                  <ErrorMessage name="firstName" component="span" />
-
-                  <label htmlFor="lastName">Last Name</label>
-                  <Field name="lastName" type="text" />
-                  <ErrorMessage name="lastName" component="span" />
-
-                  <label htmlFor="email">Email address</label>
-                  <Field name="email" type="text" />
-                  <ErrorMessage name="email" component="span" />
-
-                  <button type="submit">Submit</button>
-                </Form>
-              )}
-            </Formik> */}
           </div>
         </Container>
       </Hero>
