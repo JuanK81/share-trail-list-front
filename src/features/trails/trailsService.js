@@ -30,20 +30,6 @@ const getTrails = async (token) => {
 
   return response.data
 }
-// // Get user trails
-// const getUserTrails = async (token) => {
-
-
-//   const config = {
-//     headers: {
-//       Authorization: `Bearer ${token}`,
-//     },
-//   }
-
-//   const response = await axios.get(API_URL, config)
-
-//   return response.data
-// }
 
 //Delete Trail
 export const deleteTrail = async (trailId, token) => {
@@ -60,7 +46,6 @@ export const deleteTrail = async (trailId, token) => {
 export const trailService = {
   createTrail,
   deleteTrail,
-  // getUserTrails,
   getTrails
 };
 
