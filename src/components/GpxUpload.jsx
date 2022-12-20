@@ -1,13 +1,7 @@
-import React, {
-  useRef,
-  // useState
-} from 'react';
+import React, { useRef } from 'react';
 import { gpx } from '@tmcw/togeojson';
-// import { useEffect } from 'react';
-// import MaplibreCra from '../mplibre-cra/MaplibreCra';
 
 const GpxUpload = ({ id, center, onInput }) => {
-  // const [file, setFile] = useState();
   const gpxFileRef = useRef();
 
   const gpxfileHandler = () => {
