@@ -35,16 +35,6 @@ export const login = createAsyncThunk('auth/login', async (user, thunkAPI) => {
   }
 })
 //****************************//
-  //Get User Trails
-  // export const getUserTtrails = createAsyncThunk('auth/trails', async (user, thunkAPI) => {
-  //   try {
-  //     return await authService.login(user)
-  //   } catch (error) {
-  //     const message = (error.response && error.response.data && error.response.data.message) || error.message || error.toString();
-  //     return thunkAPI.rejectWithValue(message);
-  //   }
-  // })
-//****************************//
 
 //Log out
 
